@@ -9,20 +9,23 @@ It combines executable **HowTos** and a structured **Benchmarking Suite**
 to explore, verify, and compare the capabilities of the MLPro framework.
 
 
-## 📚 Howtos
+### 📚 Howtos
 ...
 
 
-## 📊 Benchmarking Suite
+### 📊 Benchmarking Suite
 ...
 
 
-## 🔗 See also
+### 🔗 See also
 
 [MLPro - The integrative middleware framework for standardized machine learning in Python](https://mlpro.readthedocs.io/)
 
 [South Westphalia University of Applied Sciences, Dept. of Automation Technology and Learning Systems](https://www.fh-swf.de/de/forschung___transfer_4/labore_3/labs/labor_fuer_automatisierungstechnik__soest_1/standardseite_57.php)
 
 
-## 🤝 How to contribute
-...
+### 🤝 How to contribute
+
+We welcome issues, improvements, and examples that fit into the structure and style of MLPro Lab.
+
+Before submitting a pull request, please read our [contribution guidelines](./CONTRIBUTING.md).
