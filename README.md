@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6653484.svg)](https://doi.org/10.5281/zenodo.6653484)
-
 <img src="https://github.com/fhswf/MLPro/blob/main/doc/logo/original/logo.png?raw=true" align="right" width="40%"/>
 
 # MLPro Test Center – Howtos and benchmarking tools for MLPro components and algorithms
