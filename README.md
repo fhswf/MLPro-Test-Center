@@ -6,7 +6,7 @@
 
 This repository is maintained by the MLPro team and provides two core building blocks:
 
-- 💡 **Howtos** – executable guides for working with MLPro modules, tools, and configurations  
+- 📚 **Howtos** – executable guides for working with MLPro modules, tools, and configurations  
 - 📊 **Benchmarking Suite** – a structured system for evaluating MLPro setups, including:
   - **Benchmark Scenarios** – predefined configurations for standardized testing  
   - **Benchmark Tests** – executable cases to compare algorithms and measure performance
