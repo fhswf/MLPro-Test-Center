@@ -1,12 +1,17 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6653484.svg)](https://doi.org/10.5281/zenodo.6653484)
 
-<img src="https://github.com/fhswf/MLPro/blob/main/doc/logo/original/logo.png?raw=True" align="right" width="40%"/>
+<img src="https://github.com/fhswf/MLPro-Test-Center/blob/main/doc/logo/original/logo.png?raw=true" align="right" width="40%"/>
 
-# MLPro Lab – An open environment to explore, test, and benchmark MLPro components and algorithms. 
+# MLPro Test Center – Howtos and benchmarking tools for MLPro components and algorithms
 
-This repository is the official test and exploration environment for MLPro.  
-It combines executable **HowTos** and a structured **Benchmarking Suite**  
-to explore, verify, and compare the capabilities of the MLPro framework.
+This repository is maintained by the MLPro team and provides two core building blocks:
+
+- 💡 **Howtos** – executable guides for working with MLPro modules, tools, and configurations  
+- 📊 **Benchmarking Suite** – a structured system for evaluating MLPro setups, including:
+  - 📐 **Benchmark Scenarios** – predefined configurations for standardized testing  
+  - 🔨 **Benchmark Tests** – executable cases to compare algorithms and measure performance
+
+All content is developed and maintained to showcase selected features, evaluate algorithms, and document recommended workflows.
 
 
 ### 📚 Howtos
@@ -26,6 +31,6 @@ to explore, verify, and compare the capabilities of the MLPro framework.
 
 ### 🤝 How to contribute
 
-We welcome issues, improvements, and examples that fit into the structure and style of MLPro Lab.
+We welcome community contributions that align with our structure and quality standards.
 
 Before submitting a pull request, please read our [contribution guidelines](./CONTRIBUTING.md).
