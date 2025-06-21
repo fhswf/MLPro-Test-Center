@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6653484.svg)](https://doi.org/10.5281/zenodo.6653484)
 
-<img src="https://github.com/fhswf/MLPro-Test-Center/blob/main/doc/logo/original/logo.png?raw=true" align="right" width="40%"/>
+<img src="https://github.com/fhswf/MLPro/blob/main/doc/logo/original/logo.png?raw=true" align="right" width="40%"/>
 
 # MLPro Test Center – Howtos and benchmarking tools for MLPro components and algorithms
 
@@ -8,8 +8,8 @@ This repository is maintained by the MLPro team and provides two core building b
 
 - 💡 **Howtos** – executable guides for working with MLPro modules, tools, and configurations  
 - 📊 **Benchmarking Suite** – a structured system for evaluating MLPro setups, including:
-  - 📐 **Benchmark Scenarios** – predefined configurations for standardized testing  
-  - 🔨 **Benchmark Tests** – executable cases to compare algorithms and measure performance
+  - **Benchmark Scenarios** – predefined configurations for standardized testing  
+  - **Benchmark Tests** – executable cases to compare algorithms and measure performance
 
 All content is developed and maintained to showcase selected features, evaluate algorithms, and document recommended workflows.
 
