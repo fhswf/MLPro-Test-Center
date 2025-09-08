@@ -116,7 +116,7 @@ pywinpty==2.0.13
 PyYAML @ file:///C:/b/abs_14xkfs39bx/croot/pyyaml_1728657968772/work
 pyzmq @ file:///C:/b/abs_f3yte6j5yn/croot/pyzmq_1734711069724/work
 referencing @ file:///C:/b/abs_09f4hj6adf/croot/referencing_1699012097448/work
-requests==2.32.3
+requests==2.32.4
 rfc3339-validator @ file:///C:/b/abs_ddfmseb_vm/croot/rfc3339-validator_1683077054906/work
 rfc3986-validator @ file:///C:/b/abs_6e9azihr8o/croot/rfc3986-validator_1683059049737/work
 rpds-py==0.20.0
