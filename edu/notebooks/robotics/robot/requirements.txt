@@ -97,7 +97,7 @@ pillow==10.4.0
 platformdirs==4.2.2
 prometheus_client==0.20.0
 prompt-toolkit @ file:///C:/b/abs_68uwr58ed1/croot/prompt-toolkit_1704404394082/work
-protobuf==4.22.1
+protobuf==4.25.8
 psutil @ file:///C:/b/abs_b5gv3mn55h/croot/psutil_1736371546320/work
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 py4j==0.10.9.7
