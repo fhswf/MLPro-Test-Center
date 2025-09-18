@@ -4,7 +4,7 @@ stable-baselines3
 mlpro-int-sb3
 
 gymnasium
-mlpro-int-gymnasiun
+mlpro-int-gymnasium
 
 mujoco
 imageio
