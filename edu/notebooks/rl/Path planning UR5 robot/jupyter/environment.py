@@ -1,4 +1,5 @@
 from mlpro.bf import Log
+from mlpro.bf.math import Dimension, ESpace
 from mlpro.bf.systems import State, Action
 from mlpro.rl.models import *
 import gymnasium as gym
