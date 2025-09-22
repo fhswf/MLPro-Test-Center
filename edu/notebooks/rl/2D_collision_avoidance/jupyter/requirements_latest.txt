@@ -1,0 +1,8 @@
+mlpro[full]
+stable-baselines3
+mlpro-int-sb3
+gymnasium
+mlpro-int-gymnasium
+
+notebook
+jupyterlab
