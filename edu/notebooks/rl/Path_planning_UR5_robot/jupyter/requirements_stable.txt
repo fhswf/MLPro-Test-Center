@@ -18,7 +18,7 @@ mujoco==2.3.5
 imageio==2.34.0
 
 notebook==7.4.5
-jupyterlab==4.4.7
+jupyterlab==4.4.8
 
 
 # Warning if Python >= 3.12
