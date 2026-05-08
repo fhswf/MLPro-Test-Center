@@ -17,7 +17,7 @@ mlpro-int-gymnasium==1.0.4
 mujoco==2.3.5
 imageio==2.34.0
 
-notebook==7.4.5
+notebook==7.5.6
 jupyterlab==4.4.7
 
 
