@@ -15,4 +15,4 @@ gymnasium==1.2.0
 mlpro-int-gymnasium==1.0.4
 
 notebook==7.4.5
-jupyterlab==4.4.7
+jupyterlab==4.5.10
